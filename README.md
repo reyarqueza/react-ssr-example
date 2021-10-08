@@ -1,4 +1,4 @@
-# React SSR Example
+# React SSR Starter Kit
 
 ## Server Side React
 
