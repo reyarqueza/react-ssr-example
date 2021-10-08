@@ -5,7 +5,7 @@
 Install and start it up!
 
 ```bash
-reyarqueza@rey-mac : ~/react-ssr-example
+reyarqueza@rey-mac : ~/react-ssr-starter-kit
 $ npm install
 $ npm start
 ```
@@ -17,14 +17,14 @@ Open up 2 terminals and run the following npm scripts:
 ### Run the Express server
 
 ```bash
-reyarqueza@rey-mac : ~/react-ssr-example
+reyarqueza@rey-mac : ~/react-ssr-starter-kit
 $ npm start
 ```
 
 ### Run the Sass compile watcher (Dart with @use support)
 
 ```bash
-reyarqueza@rey-mac : ~/react-ssr-example
+reyarqueza@rey-mac : ~/react-ssr-starter-kit
 $ npm run sass-watch
 ```
 
