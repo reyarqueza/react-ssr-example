@@ -4,7 +4,7 @@
   "description": "Server side render for React with Express and SCSS",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon ./src/server.js --exec babel-node --presets @babel/env,@babel/react",
+    "start": "nodemon ./src/server.js --ext js,jsx --exec babel-node --presets @babel/env,@babel/react",
     "sass-watch": "sass --style=compressed --watch ./scss/index.scss ./public/css/styles.min.css"
   },
   "repository": {
